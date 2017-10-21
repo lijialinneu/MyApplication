@@ -32,6 +32,8 @@ JNIEXPORT jintArray JNICALL Java_com_example_lijialin_myapplication_OpenCVCanny_
     GaussianBlur(image, image, Size(5,5), 0, 0); // 高斯滤波
     Canny(image, image, 50, 150, 3); // 边缘检测
 
+    // TODO 在这里添加其他方法
+
     int* outImage = new int[w * h];
     int n = 0;
     for(int i = 0; i < h; i++) {
