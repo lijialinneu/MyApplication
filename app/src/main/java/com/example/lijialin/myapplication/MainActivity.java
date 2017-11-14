@@ -18,14 +18,16 @@ public class MainActivity extends AppCompatActivity {
         Bitmap bitmap = BitmapFactory.decodeResource(getResources(), R.mipmap.building);
         int width = bitmap.getWidth();
         int height = bitmap.getHeight();
+
+
         int[] pix = new int[width * height];
         bitmap.getPixels(pix, 0, width, 0, 0, width, height);
+
+
         int[] resultPixels = OpenCVCanny.canny(pix, width, height);
 
         Bitmap resultBitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_4444);
         resultBitmap.setPixels(resultPixels, 0, width, 0, 0, width, height);
-
-
 
         // 将边缘图显示出来
         ImageView view = (ImageView) findViewById(R.id.resultView);

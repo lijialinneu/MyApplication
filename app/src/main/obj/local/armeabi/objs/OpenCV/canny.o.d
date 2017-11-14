@@ -97,7 +97,13 @@ C:/Users/lijialin/AndroidStudioProjects/MyApplication/app/src/main//obj/local/ar
  C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/map \
  C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream \
  C:/Users\lijialin\AndroidStudioProjects\MyApplication\native\jni\/include/opencv2/imgproc/imgproc.hpp \
- C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/platforms/android-8/arch-arm/usr/include/android/log.h
+ C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/platforms/android-8/arch-arm/usr/include/android/log.h \
+ C:/Users/lijialin/AndroidStudioProjects/MyApplication/app/src/main//jni/Line.h \
+ C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/ext/hash_set \
+ C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/backward/backward_warning.h \
+ C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/backward/hashtable.h \
+ C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/iterator \
+ C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/backward/hash_fun.h
 
 C:/Users/lijialin/AndroidStudioProjects/MyApplication/app/src/main//jni/canny.h:
 
@@ -294,3 +300,15 @@ C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libs
 C:/Users\lijialin\AndroidStudioProjects\MyApplication\native\jni\/include/opencv2/imgproc/imgproc.hpp:
 
 C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/platforms/android-8/arch-arm/usr/include/android/log.h:
+
+C:/Users/lijialin/AndroidStudioProjects/MyApplication/app/src/main//jni/Line.h:
+
+C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/ext/hash_set:
+
+C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/backward/backward_warning.h:
+
+C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/backward/hashtable.h:
+
+C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/iterator:
+
+C:/Users/lijialin/AppData/Local/Android/android-ndk-r10/sources/cxx-stl/gnu-libstdc++/4.6/include/backward/hash_fun.h:

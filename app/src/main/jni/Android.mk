@@ -19,7 +19,7 @@ endif
 LOCAL_MODULE := OpenCV
 
 LOCAL_SRC_FILES := canny.cpp
-
+LOCAL_SRC_FILES += Line.cpp
 
 #LOCAL_LDLIBS +=  -lm -llog
 LOCAL_LDLIBS += -llog
